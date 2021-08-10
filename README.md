@@ -1,5 +1,7 @@
 # Compressed Literature Program version 2
 Compressed Literature Program version 2 is a project for Data Structure course | TCSS 342 | @the University of Washington Tacoma
+<br/>
+Compressed Literator 2 Program uses my own Hash Table Data Structure, Priority Queue, and Huffman Compression Algorithm.
 
 ## Description
 This program compresses data from Leo Tolstoy’s War and Peace literature consisting of over 3 million characters 
